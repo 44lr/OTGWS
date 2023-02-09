@@ -1,4 +1,5 @@
 # OTGWS
- Download server content while playing
+ Download server addons while playing
+Recommended mostly for Sandbox.
 
 (WARNING: Very experimental)
