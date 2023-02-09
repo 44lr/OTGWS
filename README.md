@@ -15,3 +15,4 @@ This addon is still in it's experimental phase, and very early in development. I
 - [ ] HUD / UI that shows what's going on.
 - [ ] Network serialization / deserialization
 - [ ] General code optimization
+- [ ] Playermodel support
