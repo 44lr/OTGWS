@@ -9,3 +9,9 @@ Made for Sandbox, not recomended for TTT or DarkRP.
 
 **WARNING**
 This addon is still in it's experimental phase, and very early in development. It may not work with some addons that do some specific things with models, or weapon bases that don't use the default model system.
+
+#### TO-DO list:
+- [ ] Replace the default error model with an indicator that the model is loading / a bounding box.
+- [ ] HUD / UI that shows what's going on.
+- [ ] Network serialization / deserialization
+- [ ] General code optimization
